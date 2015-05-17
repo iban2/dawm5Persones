@@ -7,6 +7,10 @@ public class EdatPersona {
 	    private String nombre;
 	    private int edad;
 	    //OTRA VEZ HAGO CAMBIOS
+	      //OTRA VEZ HAGO CAMBIOS
+	        //OTRA VEZ HAGO CAMBIOS
+	          //OTRA VEZ HAGO CAMBIOS
+	            //OTRA VEZ HAGO CAMBIOS
 	    public void inicializar() {
 	        teclado=new Scanner(System.in);
 	        System.out.print("Ingrese nombre:");
